@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=SONGHEE'S%20GITHUB!🌊&fontSize=56&fontAlign=50&desc=BACKEND%20DEVELOPER&descAlign=25&descAlignY=33&descSize=19&fontAlignY=51)
+
+</div>
 
 <!--
 **KIMBBOI/kimbboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
