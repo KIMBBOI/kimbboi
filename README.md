@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=SONGHEE'S%20GITHUB!🌊&fontSize=56&fontAlign=50&desc=BACKEND%20DEVELOPER&descAlign=25&descAlignY=33&descSize=19&fontAlignY=51)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=SONGHEE'S%20GITHUB!🌊&fontSize=56&fontAlign=50)
 
 
   ![Kimbboi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbboi&show_icons=true)
